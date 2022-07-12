@@ -6,3 +6,5 @@ git status // 변경된거 있는지 확인
 git add . // 담기
 git commit -m "커밋 내용"
 git push // 올리기
+
+git pull // 변경된게 있으면 local로 받기
